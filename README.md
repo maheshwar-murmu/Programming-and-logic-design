@@ -4,7 +4,7 @@ This repository is designed to help build and enhance logic-building skills thro
 
 ## Daily Uploads
 
-- **Day 1** (01-02-2025, 11:54 AM): Introduction to basic logic problems in C.
--
+- **Day 1** (01-02-2025, 11:54 AM): Introduction to basic logic problems in C, focusing on simple operations, conditionals, and fundamental syntax.
+
 
 Each day will contain problems with solutions to help you learn and practice the core concepts of C programming.
