@@ -4,8 +4,7 @@ This repository is designed to help build and enhance logic-building skills thro
 
 ## Daily Uploads
 
-- **Day 1** (2025-02-07, 10:00 AM): Introduction to basic logic problems in C.
-- **Day 2** (2025-02-08, 10:00 AM): More complex problems, including loops and conditionals.
-- **Day 3** (2025-02-09, 10:00 AM): Progressively advanced topics, including arrays, functions, and data structures.
+- **Day 1** (01-02-2025, 11:54 AM): Introduction to basic logic problems in C.
+-
 
 Each day will contain problems with solutions to help you learn and practice the core concepts of C programming.
