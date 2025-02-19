@@ -1,22 +1,19 @@
 # **Journey of Logic Building in C** 🚀  
 
-This repository is designed to help build and enhance **logic-building skills** through **C programming**. The journey is divided into multiple days, each focusing on different **programming concepts, logic challenges, and problem-solving techniques**.  
+This repository helps build **logic-building skills** through **C programming**. Each day covers new **concepts, challenges, and problem-solving techniques**.  
 
 ## **📆 Daily Uploads**  
 
 - **Day 1** (01-02-2025, 11:54 AM)  
-  - Introduction to **basic logic problems** in C.  
-  - Focus on **simple operations, conditionals, and fundamental syntax**.  
+  - Basic logic problems in C  
+  - Simple operations, conditionals, and syntax  
 
 - **Day 2** (13-02-2025, 08:52 PM)  
-  - A step ahead of basic C programs.  
-  - Focus on **decision-making structures**:  
-    - `if-else`  
-    - `nested if-else`  
-    - `if-else ladder`  
+  - Decision-making structures  
+  - `if-else`, `nested if-else`, `if-else ladder`  
 
-Each day will contain **new problems and solutions** to help you **learn, practice, and improve your coding skills** in C.  
+- **Day 3** (19-02-2025, 11:01 PM)  
+  - Introduction to **loops**  
+  - `while loop` and its logic-building applications  
 
----
-
-📌 **Stay consistent and keep coding!** 🚀🔥  
+📌 **Keep practicing and stay consistent!** 🚀🔥  
