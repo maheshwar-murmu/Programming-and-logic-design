@@ -14,6 +14,6 @@ This repository helps build **logic-building skills** through **C programming**.
 
 - **Day 3** (19-02-2025, 11:01 PM)  
   - Introduction to **loops**  
-  - `while loop` and its logic-building applications  
+  - `while loop` and `for loop` uses in logic-building applications  
 
 📌 **Keep practicing and stay consistent!** 🚀🔥  
