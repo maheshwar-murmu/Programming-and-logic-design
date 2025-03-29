@@ -20,5 +20,8 @@ This repository helps build **logic-building skills** through **C programming**.
   - Introduction to **Functions & Recursion**  
   - Function basics, recursion, and swapping techniques  
 
-📌 **Keep practicing and stay consistent!** 🚀🔥  
+- **Day 5** (29-03-2025, 08:33 PM)  
+  - Loop-based problem solving  
+  - Armstrong number, palindrome, factorial, Fibonacci, prime check, number reversal, and pattern printing using loops  
 
+📌 **Keep practicing and stay consistent!** 🚀🔥  
