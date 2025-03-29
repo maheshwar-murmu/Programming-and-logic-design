@@ -16,4 +16,9 @@ This repository helps build **logic-building skills** through **C programming**.
   - Introduction to **loops**  
   - `while loop` and `for loop` uses in logic-building applications  
 
+- **Day 4** (29-03-2025, 05:52 PM)  
+  - Introduction to **Functions & Recursion**  
+  - Function basics, recursion, and swapping techniques  
+
 📌 **Keep practicing and stay consistent!** 🚀🔥  
+
