@@ -24,4 +24,9 @@ This repository helps build **logic-building skills** through **C programming**.
   - Loop-based problem solving  
   - Armstrong number, palindrome, factorial, Fibonacci, prime check, number reversal, and pattern printing using loops  
 
+- **Day 6** (30-03-2025, 10:40 AM)  
+  - Introduction to **Arrays & Structures**  
+  - Array operations, search algorithms, matrix transpose  
+  - Structures for books, complex numbers, and unit conversions  
+
 📌 **Keep practicing and stay consistent!** 🚀🔥  
