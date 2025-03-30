@@ -29,4 +29,10 @@ This repository helps build **logic-building skills** through **C programming**.
   - Array operations, search algorithms, matrix transpose  
   - Structures for books, complex numbers, and unit conversions  
 
+- **Day 7** (30-03-2025, 12:05 PM)  
+  - **Strings & Sorting Algorithms**  
+  - String operations: reverse, palindrome check, ASCII values, substring search  
+  - Sorting & Searching: bubble sort, binary search (recursion)  
+  - Counting vowels, consonants, spaces, and numbers in a string  
+
 📌 **Keep practicing and stay consistent!** 🚀🔥  
