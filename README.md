@@ -34,5 +34,4 @@ This repository helps build **logic-building skills** through **C programming**.
   - String operations: reverse, palindrome check, ASCII values, substring search  
   - Sorting & Searching: bubble sort, binary search (recursion)  
   - Counting vowels, consonants, spaces, and numbers in a string  
-
-📌 **Keep practicing and stay consistent!** 🚀🔥  
+  
